@@ -1,4 +1,3 @@
 # py_projects
-My python project
 
-made by mukal
+Here are my awesome python projects so check them out !!
